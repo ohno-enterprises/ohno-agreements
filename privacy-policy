@@ -11,6 +11,8 @@ Information Collection and Use
 
 For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to camera, read-phone-state, read-contacts, users' Phone Number. The information that we request will be uploaded and retained by us locally as well as in the secure, private server and used only for making the app better. Other permissions used by this app are READ_PHONE_STATE, INTERNET, READ_CONTACTS, WRITE_EXTERNAL_STORAGE, READ_EXTERNAL_STORAGE. 
 
+Phone contacts are not stored/used anywhere in the server and it is only for checking if the particular contact is registered with ohno
+
 The app does use third party services that may collect information used to identify you.
 
 Link to privacy policy of third party service providers used by the app
